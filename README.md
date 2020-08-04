@@ -1,4 +1,4 @@
-   ![](sudo.gif)   
+   ![](https://github.com/s403o/s403o/blob/master/sudo.gif)   
 
 <!--
 **s403o/s403o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
