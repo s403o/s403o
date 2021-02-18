@@ -1,18 +1,15 @@
-<p align="center"> 
+<p align="center">
   <img src="https://github.com/s403o/s403o/blob/master/sudo.gif" />
 </p>
 
-<!--
-**s403o/s403o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Most Active GitHub User in Egypt Rank](https://enogfdaxd1nnkto.m.pipedream.net)](https://commits.top/egypt_private.html)
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+![counter](https://endmdi6k3t3qq8c.m.pipedream.net/)  
+[![Most Active GitHub User in Egypt Rank](https://enogfdaxd1nnkto.m.pipedream.net)](https://commits.top/egypt_private.html)  
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=s403o&show_icons=true&title_color=CD5C5C&icon_color=CD5C5C&text_color=9f9f9f&bg_color=151515)
+
+</div>
