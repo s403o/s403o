@@ -1,12 +1,5 @@
-<p align="center">
-  <img src="https://github.com/s403o/s403o/blob/master/sudo.gif" />
-</p>
-
-[![Most Active GitHub User in Egypt Rank](https://enogfdaxd1nnkto.m.pipedream.net)](https://commits.top/egypt_private.html)
-
-</p>
-
 <div align="center">
+  <img src="https://github.com/s403o/s403o/blob/master/sudo.gif" />
   
 ![counter](https://endmdi6k3t3qq8c.m.pipedream.net/)  
 [![Most Active GitHub User in Egypt Rank](https://enogfdaxd1nnkto.m.pipedream.net)](https://commits.top/egypt_private.html)  
