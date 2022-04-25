@@ -1,9 +1,25 @@
 <div align="center">
-  <img src="https://github.com/s403o/s403o/blob/master/sudo.gif" />
-  
+	
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=32&color=CD5C5C&center=true&vCenter=true&lines=Hi+there%2C+i'm+Eslam+Adel;DevOps+Engineer;Problem+Solver;Open-Source+Enthusiast;Interested+in+SRE)](https://git.io/typing-svg)
+		
+<img src="https://github.com/s403o/s403o/blob/master/sudo.gif" />
+
 ![counter](https://endmdi6k3t3qq8c.m.pipedream.net/)  
 [![Most Active GitHub User in Egypt Rank](https://enogfdaxd1nnkto.m.pipedream.net)](https://commits.top/egypt.html)
-  
+
+	
+<a href="https://www.linkedin.com/in/s403o/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="30">
+  </a>
+	
+<a href="mailto:eslam.adel.me@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Mail" height="30" width="30">
+  </a>
+	
+<a href="https://t.me/s403o/">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" height="30" width="30">
+  </a>
+	
 </div>
 <p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=s403o&theme=dark" alt="streak"/> <br>
