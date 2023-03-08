@@ -24,7 +24,7 @@
 <p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=s403o&theme=dark" alt="streak"/> <br>
 	<a href="https://github.com/s403o">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=s403o&show_icons=true&title_color=CD5C5C&icon_color=CD5C5C&text_color=9f9f9f&bg_color=151515"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s403o&title_color=CD5C5C&layout=compact&bg_color=151515&text_color=9f9f9f"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=s403o&show_icons=true&title_color=CD5C5C&icon_color=CD5C5C&text_color=ffffff&bg_color=151515"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s403o&title_color=CD5C5C&layout=compact&bg_color=151515&text_color=ffffff"&langs_count=10/>
 </a> 
 </p>
