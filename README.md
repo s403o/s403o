@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img width="500" src="https://contributors.gitlab.com/users/s403o/banner.svg" alt="GitLab Contributor Stats" />
+  <a href="https://contributors.gitlab.com/users/s403o"><img width="500" src="https://contributors.gitlab.com/users/s403o/banner.svg" alt="GitLab Contributor Stats" /></a>
 </p>
 
 <p align="center">
